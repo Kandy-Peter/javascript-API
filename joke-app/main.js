@@ -6,9 +6,10 @@ function displayJoke() {
     fetch('https://api.blablagues.net/?rub=blagues')
         .then((res) => res.json())
         .then((data) => {
-            header.textContent = data.data.content.text_head;
+            const dataDestr = data.data.content;
+            header.textContent = dataDestr.text_head;
             contents.textContent = 
-                data.data.content.text !== "" ? data.data.content.text : data.data.content.text_hidden;
+                dataDestr.text !== "" ? dataDestr.text : dataDestr.text_hidden;
         });
     }
 
