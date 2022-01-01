@@ -1,14 +1,15 @@
-// Method XMLHttpRequest
-//This is how the data was founded with the xml method
+// FETCH
 
-let req = new XMLHttpRequest();
-req.onload =  reqListener;
-// req.open("get", 'data.txt', true);
-// we can also open an url as an api.
+// fetch('my url', "object options")
+//     .then((response) => {
+//         console.log(response)
+//     });
 
-req.open("get", 'data.json', true);
-req.send();
+fetch('data.txt')
+    .then((res) => res.text())
+    .then((data) => console.log(data));
 
-function reqListener () {
-    console.log(this.responseText);
-}
+fetch('data.json')
+    .then((res) => res.json())
+    .then((data) => console.log(data));
+    // .then((data) => console.log(data.name));
