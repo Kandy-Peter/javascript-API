@@ -1,0 +1,12 @@
+{
+    "name" : "Kandy Kamuntu Peter",
+    "Nationality" : "Congolese",
+    "Age" : 32,
+    "Porfession" : "Micorverse student",
+    "IsDeveloper" : true,
+    "[Skills]" : {
+        "languages" : "Javascript, hmtl/css, ruby, ruby on rails",
+        "frameworks" : "Bootstrap, React/Redux",
+        "Others" : "Git/github, Figma, etc"
+    } 
+}
