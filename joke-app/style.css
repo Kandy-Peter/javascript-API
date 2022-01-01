@@ -10,12 +10,13 @@ body {
     background: #d6e1f0;
     color: rgb(241, 241, 241);
   }
-  .conatiner {
-    width: 70%;
+  .container {
+    width: 50%;
     min-width: 400px;
-    max-width: 800px;
-    background: rgb(0, 17, 255);
+    max-width: 700px;
+    background: rgb(105, 112, 216);
     border-radius: 6px;
+    border: 2px solid rgb(225, 239, 255);
     padding: 20px 40px;
     box-shadow: 0 2px 18px rgba(58, 58, 58, 0.307);
     cursor: pointer;
@@ -23,4 +24,10 @@ body {
   }
   .app:hover {
     transform: scale(1.01);
+  }
+
+  .contents {
+      font-size: 20px;
+      font-weight: 300;
+      padding-top: 20px;
   }
