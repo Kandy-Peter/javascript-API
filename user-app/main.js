@@ -10,17 +10,17 @@ const init = {
 //------------CRUD => create(POST), read(GET), Update(PUT), delete(DELETE)
 
 let init2 = {
-  method: "DELETE",
+  method: "POST",
   headers: {
     "Content-type": "application/json"
   },
-  // body: JSON.stringify({
-  //   pseudo: "Kandy Peter",
-  //   message: "hey my team!",
-  // }),
+  body: JSON.stringify({
+    pseudo: "Kandy Peter",
+    age: 25,
+  }),
   mode: "cors",
   credentials: "same-origin",
 }
 document.querySelector('form').addEventListener('submit', () => {
-  fetch("http://localhost:3000/posts/2", init2).then(() => console.log('data sent'));
+  fetch("http://localhost:3000/users", init2).then(() => console.log('data sent'));
 })
