@@ -17,13 +17,23 @@ const renderUsers = async () => {
     return newDate;
   }
 
+  // fucntion to calculate the date
+
+  const calcDate = date => {
+    let today = new Date();
+    let timeStamp = Date.parse(today)
+    let newTimeStamp = Date.parse(date);
+
+    return Math.ceil((timeStamp - newTimeStamp) / 8.64e7);
+  }
+
   document.body.innerHTML = userData.map((user) =>
     `
     <div class='card'>
       <img src=${user.picture.large} alt=pic of ${user.name.last}" />
-      <h3>${user.name.first}</h3>
+      <h3>${user.name.first} ${user.name.last}</h3>
       <p>${user.location.city}, ${formatDate(user.dob.date)}</p>
-      <em>Member since: ${user.registered.date} days</em>
+      <em>Member since: ${calcDate(user.registered.date)} days</em>
     </div>
     `
   ).join("");
