@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "pseudo": "Kandy Peter",
+      "message": "hey guys!",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "pseudo": "Kandy Peter",
+      "age": 25,
+      "id": 1
+    }
+  ]
+}
