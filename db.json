@@ -1,0 +1,294 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 2
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 3
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 4
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 5
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 6
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 7
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 8
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 9
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 10
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 11
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 12
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 13
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 14
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 15
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 16
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 17
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 18
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 19
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 20
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 21
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 22
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 23
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 24
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 25
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 26
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 27
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 28
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 29
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 30
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 31
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 32
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 33
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 34
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 35
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 36
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 37
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 38
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 39
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 40
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 41
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 42
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 43
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 44
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 45
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 46
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 47
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 48
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 49
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 50
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 51
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 52
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 53
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 54
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 55
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 56
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 57
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 58
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 59
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 60
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 61
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 62
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 63
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 64
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 65
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "id": 66
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "message": "hey guys!",
+      "id": 67
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "message": "hey guys!",
+      "id": 68
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "message": "hey guys!",
+      "id": 69
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

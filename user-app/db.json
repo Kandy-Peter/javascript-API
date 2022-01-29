@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "pseudo": "Kandy Peter",
+      "message": "hey guys!",
+      "id": 1
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "message": "hey my team!",
+      "id": 2
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "message": "hey my team!",
+      "id": 3
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "message": "hey my team!",
+      "id": 4
+    },
+    {
+      "pseudo": "Kandy Peter",
+      "message": "hey my team!",
+      "id": 5
+    }
+  ]
+}
